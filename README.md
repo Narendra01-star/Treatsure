@@ -1,0 +1,2 @@
+# Treatsure
+Treatsure plugin
